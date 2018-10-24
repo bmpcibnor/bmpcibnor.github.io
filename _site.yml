@@ -1,0 +1,9 @@
+name: "BMP CIBNOR"
+output_dir: "."
+navbar:
+  title: "Laboratorio de Biología Molecular de Plantas del CIBNOR"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
