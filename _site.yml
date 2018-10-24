@@ -1,13 +1,15 @@
 name: "BMP CIBNOR"
 output_dir: "."
 navbar:
-  title: "Laboratorio de Biología Molecular de Plantas del CIBNOR"
+  title: "Biología Molecular de Plantas"
   left:
-    - text: "Home"
+    - text: "Inicio"
       href: index.html
     - text: "About"
       href: about.html
 output:
   html_document:
-    theme: cosmo
+    theme: paper
     highlight: textmate
+    lib_dir: site_libs
+    self_contained: no
