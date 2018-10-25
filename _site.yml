@@ -4,9 +4,23 @@ navbar:
   title: "Biología Molecular de Plantas"
   left:
     - text: "Inicio"
+      icon: fa-home
+      href: index.html
+    - text: "Integrantes"
+      icon: fa-home
+      href: index.html
+    - text: "Proyectos"
+      icon: fa-home
+      href: index.html
+    - text: "Publicaciones"
+      icon: fa-home
       href: index.html
     - text: "Servicios"
+      icon: fa-construct
       href: servicios.html
+    - text: "Galería"
+      icon: fa-home
+      href: index.html
     - text: "About"
       href: about.html
 output:
