@@ -3,25 +3,38 @@ output_dir: "."
 navbar:
   title: "Biología Molecular de Plantas"
   left:
-    - text: "Inicio"
+    - text: ""
       icon: fa-home
       href: index.html
-    - text: "Integrantes"
-      icon: fa-home
+    - text: ""
+      icon: fa-user-friends
       href: index.html
-    - text: "Proyectos"
-      icon: fa-home
+    - text: ""
+      icon: fa-folder 
       href: index.html
-    - text: "Publicaciones"
-      icon: fa-home
+    - text: ""
+      icon: fa-file-pdf 
       href: index.html
-    - text: "Servicios"
-      icon: fa-construct
+    - text: ""
+      icon: fa-toolbox
       href: servicios.html
-    - text: "Galería"
-      icon: fa-home
+      menu:
+      - text: "Cursos"
+      - text: "R y RStudio básico"
+        icon: fa-r-project
+        href: about.html
+      - text: "Estadística con R"
+        icon: fa-r-project
+        href: about.html
+      - text: "--------------"
+      - text: "Detección de patógenos"
+      - text: "Dengue"
+        href: about.html
+    - text: ""
+      icon: fa-images
       href: index.html
-    - text: "About"
+    - text: ""
+      icon: fa-info
       href: about.html
 output:
   html_document:
