@@ -8,7 +8,7 @@ navbar:
       href: index.html
     - text: ""
       icon: fa-user-friends
-      href: index.html
+      href: integrantes.html
     - text: ""
       icon: fa-folder 
       href: index.html
@@ -33,6 +33,7 @@ navbar:
     - text: ""
       icon: fa-images
       href: index.html
+  right:
     - text: ""
       icon: fa-info
       href: about.html

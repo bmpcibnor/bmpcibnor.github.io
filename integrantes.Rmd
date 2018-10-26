@@ -1,0 +1,29 @@
+---
+title: "Integrantes"
+---
+
+## Dra. Gracia Alicia Gómez Anduro 
+![Dra. Gracia Gómez Anduro](img/Gracia.jpg)
+
+* Investigadora titular Laboratorio de Biología Molecular de Plantas CIBNOR  
+ 
+## M.C. Mario Arce Montoya  
+![M.C. Mario Arce Montoya](img/Mario.jpg)
+
+* Técnico titular C Laboratorio de Biotecnología Vegetal CIBNOR  
+
+## M.C. Julio Antonio Hernández González 
+![M.C. Julio Hernández](img/Julio.jpg)
+
+* Técnico titular B Laboratorio de Biología Molecular de Plantas CIBNOR  
+
+## M.C. Carolina Garciglia Mercado 
+![M.C. Julio Hernández](img/Caro.jpg)
+
+* Estudiante Doctorado Laboratorio de Biología Molecular de Plantas CIBNOR  
+
+## M.C. Héctor Garza Avelar 
+![M.C. Julio Hernández](img/Héctor.jpg)
+
+* Estudiante Doctorado Laboratorio de Biología Molecular de Plantas CIBNOR  
+
